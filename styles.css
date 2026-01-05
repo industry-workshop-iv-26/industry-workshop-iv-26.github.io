@@ -254,6 +254,55 @@ main {
   margin-top: 0;
 }
 
+#call-for-papers .panel-content {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  align-items: start;
+}
+
+#call-for-papers .card {
+  background: #ffffff;
+  border: 1px solid rgba(31, 91, 255, 0.18);
+  box-shadow: 0 14px 28px rgba(15, 23, 42, 0.08);
+}
+
+#call-for-papers .card h3 {
+  position: relative;
+  padding-left: 14px;
+}
+
+#call-for-papers .card h3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 6px;
+  width: 4px;
+  height: 22px;
+  border-radius: 999px;
+  background: var(--accent);
+}
+
+.dates-list,
+.requirements {
+  margin: 12px 0 0;
+  padding-left: 18px;
+  color: var(--muted);
+}
+
+.dates-list li,
+.requirements li {
+  margin-bottom: 6px;
+}
+
+.dates-note {
+  margin: 14px 0 0;
+  padding: 10px 12px;
+  background: rgba(31, 91, 255, 0.08);
+  border-radius: 12px;
+  border: 1px solid rgba(31, 91, 255, 0.2);
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .schedule {
   margin-top: 24px;
   display: grid;
