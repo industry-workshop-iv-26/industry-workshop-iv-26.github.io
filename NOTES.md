@@ -1,7 +1,6 @@
 # Speaker Notes
 - Robert Gee (Aumovio, USA): Hybrid Communications: Not only for electrified vehicles -> 10 - 15min
 - Sergei Avedisov (Toyota, USA): presentation title TBD -> 10 - 15min
-- Jonathan Petit (Qualcomm, USA): Physical Attacks on Automated Driving -> 10 - 15min
 - Tim Leimueller (DENSO, Germany): UWB-based VRU protection in Urban Scenarios -> 10 - 15min
 - Aaron Rosekind & Dhruv Patel (Zoox, USA): Fail Operational Response by Autonomous Vehicles  -> 10 - 15min
 - Thomas Monninger (Mercedes-Benz, USA): Generative Methods for Mapping and Scene Understanding in Autonomous Driving -> 10 - 15min
