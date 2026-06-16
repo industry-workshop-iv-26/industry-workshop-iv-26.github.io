@@ -1,14 +1,22 @@
 # Speaker Notes
-- Robert Gee (Aumovio, USA): Hybrid Communications: Not only for electrified vehicles -> 10 - 15min
-- Sergei Avedisov (Toyota, USA): presentation title TBD -> 10 - 15min
-- Tim Leimueller (DENSO, Germany): UWB-based VRU protection in Urban Scenarios -> 10 - 15min
-- Aaron Rosekind & Dhruv Patel (Zoox, USA): Fail Operational Response by Autonomous Vehicles  -> 10 - 15min
-- Thomas Monninger (Mercedes-Benz, USA): Generative Methods for Mapping and Scene Understanding in Autonomous Driving -> 10 - 15min
-- Jim Misener (WSP, USA): The Role of Connectivity and Automated Driving Systems:  Practical Considerations from the Roadway Infrastructure Side -> 10 - 15min
-- Ignacio Alvarez (Technische Hochschule Ingolstadt, Germany): presentation title TBD -> 10 - 15min
-- Rebeca Delgado (VP Engineering – Autonomy Applications, Torc Robotics, USA): presentation title TBD -> 10 - 15min
-  
-- Rajan Chaudhary (ABV-Indian Institute of Information Technology and Management, India): ETSC-HD: A Safety-Aware, ODD-Robust Benchmark and Composite Score for SPaT- and Grade-Constrained DRL-Based Eco-Driving -> 5-10min (or 20 min if Paper not in other session)
-  
-- Fernando GARCIA FERNANDEZ (Universidad Carlos III de Madrid, Spain): presentation title TBD  -> Academia: 20 min
-- Brian Park (University of Virginia, USA): Mixed Traffic Cooperative Platooning: from CNN-QMIX to Zone-Aware GAT-QMIX MARL   -> Academia: 20 min
+
+## Confirmed speakers on website
+
+- Thomas Monninger (Mercedes-Benz Research & Development North America, USA): Generative Methods for Mapping and Scene Understanding in Autonomous Driving -> 10 - 15 min
+- Sergei Avedisov (Toyota InfoTech Labs, USA): Vehicle Cooperation Classes and Their Impact on Automated Driving -> 10 - 15 min
+- Jim Misener (WSP, USA): The Role of Connectivity and Automated Driving Systems: Practical Considerations from the Roadway Infrastructure Side -> 10 - 15 min
+- Joschua Schulte-Tigges (University of Applied Sciences Aachen, Germany): Cooperative Automated Highway Merging Evaluation through Extensive Trials of Interoperable Prototypes -> 10 - 15 min
+
+
+- Ignacio Alvarez (Intel Labs): presentation title TBD -> 10 - 15 min
+- Lennart Reiher (Institute for Automotive Engineering (ika), RWTH Aachen University, Germany): Taking University Research to the Road: How ika is developing, testing, and operating the karl. Research Vehicle -> 10 - 15 min
+- Rebeca Delgado (Torc Robotics, USA): presentation title TBD -> 10 - 15 min
+- Tim Leinmueller (DENSO, Germany): UWB-based VRU protection in Urban Scenarios -> 10 - 15 min
+
+
+- Robert Gee (Continental, USA): Hybrid Communications: Not only for electrified vehicles -> 10 - 15 min
+- Brian Park (University of Virginia, USA): Mixed Traffic Cooperative Platooning: from CNN-QMIX to Zone-Aware GAT-QMIX MARL -> Academia: 20 min
+
+- Aaron Rosekind & Dhruv Patel (Zoox, USA): Fail Operational Response by Autonomous Vehicles -> 10 - 15 min
+- Chris van der Ploeg (Netherlands Organisation for Applied Scientific Research (TNO), The Netherlands): Safety Assessment in the Age of End-to-End Learning -> 10 - 15 min
+
